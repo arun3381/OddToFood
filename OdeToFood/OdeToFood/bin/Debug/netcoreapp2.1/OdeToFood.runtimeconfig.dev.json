@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pandeyar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pandeyar\\.nuget\\packages"
+    ]
+  }
+}
